@@ -125,10 +125,10 @@ export const BUSD_GOERLI = new ERC20Token(
 
 export const SHDW_ETH = new ERC20Token(
   ChainId.ETHEREUM,
-  '0xddBa66C1eBA873e26Ac0215Ca44892a07d83aDF5',
+  '0x43EAdE8f5a7EC6dE8B8506Be0036Bc1BB47DbD05',
   18,
-  'SHDW',
-  'Shadow Token',
+  'STIK',
+  'STAIKA Token',
   'https://shadowswap.xyz/',
 )
 
